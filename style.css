@@ -1,0 +1,13 @@
+
+.b1{
+    /* background-color: red; */
+    height: 45px;
+    width: 30px;
+    display: flex;
+}
+.a1{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 4%;
+    
+}
